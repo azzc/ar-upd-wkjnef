@@ -1,7 +1,7 @@
 {
     "forced":  false,
-    "installerUrl":  "https://github.com/azzc/ar-upd-wkjnef/releases/download/v1.2.2/AnyReport-1.2.2-Setup.exe",
-    "version":  "1.2.2",
-    "installerSha256":  "bc9234d3a70be4fd889a4ed30176d8ff46b0cb749c3f3dc51273ad094933707d",
-    "notes":  "AnyReport 1.2.2: titlebar icon + version display"
+    "installerUrl":  "https://github.com/azzc/ar-upd-wkjnef/releases/download/v1.2.3/AnyReport-1.2.3-Setup.exe",
+    "version":  "1.2.3",
+    "installerSha256":  "bf032c8ccdb2db64edc76cec482200ca149966fc035df052351086b6fbe159fd",
+    "notes":  "AnyReport 1.2.3: chart label outside bar, larger font"
 }
