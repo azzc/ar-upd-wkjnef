@@ -1,7 +1,7 @@
 {
     "forced":  false,
-    "installerUrl":  "https://github.com/azzc/ar-upd-wkjnef/releases/download/v1.2.0/AnyReport-1.2.0-Setup.exe",
-    "version":  "1.2.0",
-    "installerSha256":  "880f5fc0d619f77b71c8ca5ed7595b1cd5ae950ad2d38094063ab1fb4ae66dca",
-    "notes":  "AnyReport 1.2.0: installer + embedded reports"
+    "installerUrl":  "https://github.com/azzc/ar-upd-wkjnef/releases/download/v1.2.1/AnyReport-1.2.1-Setup.exe",
+    "version":  "1.2.1",
+    "installerSha256":  "f9de94c80b9b98fc3c429eee47bbc0ff37abd4a1b3ad226829bed29a6890bd04",
+    "notes":  "AnyReport 1.2.1 test update flow"
 }
