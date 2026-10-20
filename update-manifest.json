@@ -1,7 +1,7 @@
 {
-    "forced":  false,
-    "installerUrl":  "https://github.com/azzc/ar-upd-wkjnef/releases/download/v1.2.4/AnyReport-1.2.4-Setup.exe",
-    "version":  "1.2.4",
-    "installerSha256":  "86756274d928d7c3229c53c076fcf46fd57845cf2736a5cecf94838fb7b44fa9",
-    "notes":  "AnyReport 1.2.4 maintenance release"
+    "forced": false,
+    "installerUrl": "https://github.com/azzc/ar-upd-wkjnef/releases/download/v1.2.5/AnyReport-1.2.5-Setup.exe",
+    "version": "1.2.5",
+    "installerSha256": "2f24f02dd55371a634295649906d33f6252fe20008c5212c8074eefa75116c70",
+    "notes": "AnyReport 1.2.5: LimeReport, เปิดรายงาน HOSxP, นำเข้า .cds/.zip, รายงานคัดกรอง HPV DNA"
 }
